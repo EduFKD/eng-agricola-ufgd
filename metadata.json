@@ -1,0 +1,6 @@
+{
+  "name": "Engenharia Agrícola UFGD",
+  "description": "Site para divulgação do curso de Engenharia Agrícola da UFGD, focado em alunos do ensino médio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
